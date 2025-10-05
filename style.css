@@ -104,7 +104,7 @@ nav.navbar.scrolled{
 
 .home-section{
     margin: 0 !important;
-    background-image:var(--image-gradient), url(/space.jpg);
+    background-image:var(--image-gradient), url(space.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -424,6 +424,7 @@ footer{
 
         margin-bottom: 20px;
     }
+
 
 
 }
